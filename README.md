@@ -64,15 +64,15 @@ La herramienta cuenta con diferentes interfaces:
 
 - Cliente
 
-       Es la interfaz de los clientes. En ella pueden publicar nuevas solicitudes, ver tickets existentes o leer artículos de la base de conocimientos.
+<pre>Es la interfaz de los clientes. En ella pueden publicar nuevas solicitudes, ver tickets existentes o leer artículos de la base de conocimientos.</pre>
 
 - Administrador
 
-      Interfaz en la que se gestiona los tickets de los clientes, personaliza las configuraciones y administra funciones.
+Interfaz en la que se gestiona los tickets de los clientes, personaliza las configuraciones y administra funciones.
 
 - Base de conocimiento
 
-      Es una base que está compuesta de distintos artículos organizados según su tipología. Es de utilidad ya que reduce el número de solicitudes de ayuda por parte del cliente.
+Es una base que está compuesta de distintos artículos organizados según su tipología. Es de utilidad ya que reduce el número de solicitudes de ayuda por parte del cliente.
 
 
 
@@ -83,8 +83,11 @@ Para instalar la herramienta HelpDeskz, primero debemos instalar Apache, MySQL y
 Abrimos un terminal e instalamos dichos paquetes desde los repositorios en un Linux Mint 18.3.
 
 `sudo apt-get install apache2`
+
 `sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql`
+
 `apt-get install mysql-server mysql-client`
+
 
 1. Descargar la herramienta desde la página oficial de HelpDeskZ. [Descargar](https://www.helpdeskz.com/download)
 
