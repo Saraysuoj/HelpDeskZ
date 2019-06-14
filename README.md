@@ -1,6 +1,7 @@
 # HelpDeskZ
 Trabajo IDP - HelpDeskZ
 
+
 ## Índice
 
 * [Definición](#definición)
@@ -12,9 +13,11 @@ Trabajo IDP - HelpDeskZ
 * [Conclusión](#conclusión)
 
 
+
 ## Definición
 
 HelpDeskZ es una software gratuito de código libre basado en PHP que permite manejar el soporte de tu sitio web usando el sistema de soporte de tickets.
+
 
 
 
@@ -22,6 +25,7 @@ HelpDeskZ es una software gratuito de código libre basado en PHP que permite ma
 
 - PHP 5.x
 - MySQL database
+
 
 
 
@@ -51,20 +55,25 @@ HelpDeskZ es una software gratuito de código libre basado en PHP que permite ma
  
 - Prevención de SPAM
  
- 
+
+
 
 ## Interfaz
 
 La herramienta cuenta con diferentes interfaces:
 
 - Cliente
+
 Es la interfaz de los clientes. En ella pueden publicar nuevas solicitudes, ver tickets existentes o leer artículos de la base de conocimientos.
 
 - Administrador
+
 Interfaz en la que se gestiona los tickets de los clientes, personaliza las configuraciones y administra funciones.
 
 - Base de conocimiento
+
 Es una base que está compuesta de distintos artículos organizados según su tipología. Es de utilidad ya que reduce el número de solicitudes de ayuda por parte del cliente.
+
 
 
 
@@ -101,11 +110,13 @@ Esto probablemente es debido a que el programa está en desuso y desde el año 2
 
 
 
+
 ## Investigación
 
 Si hacemos una búsqueda por internet, podemos comprobar que hay poca información sobre esta herramienta, lo que dificulta poder corregir el error de instalación. 
 
 Solamente encontré una página que describa los errores del software aunque no publica la solución de dicho error. [GitHub](https://github.com/evolutionscript/HelpDeskZ-1.0)
+
 
 
 
