@@ -64,15 +64,15 @@ La herramienta cuenta con diferentes interfaces:
 
 - Cliente
 
-<pre>Es la interfaz de los clientes. En ella pueden publicar nuevas solicitudes, ver tickets existentes o leer artículos de la base de conocimientos.</pre>
+   Es la interfaz de los clientes. En ella pueden publicar nuevas solicitudes, ver tickets existentes o leer artículos de la base de conocimientos.
 
 - Administrador
 
-Interfaz en la que se gestiona los tickets de los clientes, personaliza las configuraciones y administra funciones.
+  Interfaz en la que se gestiona los tickets de los clientes, personaliza las configuraciones y administra funciones.
 
 - Base de conocimiento
 
-Es una base que está compuesta de distintos artículos organizados según su tipología. Es de utilidad ya que reduce el número de solicitudes de ayuda por parte del cliente.
+  Es una base que está compuesta de distintos artículos organizados según su tipología. Es de utilidad ya que reduce el número de solicitudes de ayuda por parte del cliente.
 
 
 
